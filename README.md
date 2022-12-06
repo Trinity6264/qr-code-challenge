@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Screenshot 2022-12-06 at 00-55-54 Frontend Mentor QR code component](https://user-images.githubusercontent.com/56246225/205779788-fe388b0f-db19-4bac-97bc-8600ebeb96c8.png)
+https://user-images.githubusercontent.com/56246225/205779788-fe388b0f-db19-4bac-97bc-8600ebeb96c8.png
 
 ![](./screenshot.jpg)
 
